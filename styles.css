@@ -1,0 +1,29 @@
+body.light-mode {
+    background-color: #f8f9fa; 
+    color: #212529; 
+}
+body.light-mode .navbar {
+    background-color: #e3f2fd; 
+}
+body.light-mode table {
+    background-color: white; 
+    color: #212529; 
+}
+
+
+
+
+
+
+
+body.dark-mode {
+    background-color: #343a40;
+    color: #f8f9fa; 
+}
+body.dark-mode .navbar {
+    background-color: #343a40; 
+}
+body.dark-mode table {
+    background-color: #454d55; 
+    color: #f8f9fa; 
+}
